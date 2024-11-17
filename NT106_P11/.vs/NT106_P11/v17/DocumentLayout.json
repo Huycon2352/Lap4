@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|c:\\users\\asus vivobook\\nt106_p11\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|solutionrelative:controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|solutionrelative:appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\nt106_p11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|solutionrelative:nt106_p11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\nt106_p11.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|solutionrelative:nt106_p11.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\data\\memberdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|solutionrelative:data\\memberdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\nt106_p11.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FEA08402-9CF9-4819-88D2-1D236ADBDA8C}|NT106_P11.csproj|solutionrelative:nt106_p11.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 372,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T10:10:38.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\AppDbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\AppDbContext\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:48:26.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T09:29:54.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NT106_P11.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\NT106_P11.csproj",
+              "RelativeDocumentMoniker": "NT106_P11.csproj",
+              "ToolTip": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\NT106_P11.csproj",
+              "RelativeToolTip": "NT106_P11.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T09:22:51.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Controllers\\MemberController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:15:59.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberData.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\Data\\MemberData.cs",
+              "RelativeDocumentMoniker": "Data\\MemberData.cs",
+              "ToolTip": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\Data\\MemberData.cs",
+              "RelativeToolTip": "Data\\MemberData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:12:07.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Models\\Member.cs",
+              "ToolTip": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\Models\\Member.cs",
+              "RelativeToolTip": "Models\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:10:47.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NT106_P11",
+              "DocumentMoniker": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\NT106_P11.csproj",
+              "RelativeDocumentMoniker": "NT106_P11.csproj",
+              "ToolTip": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\NT106_P11.csproj",
+              "RelativeToolTip": "NT106_P11.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T09:09:30.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:09:14.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T09:09:12.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NT106_P11.http",
+              "DocumentMoniker": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\NT106_P11.http",
+              "RelativeDocumentMoniker": "NT106_P11.http",
+              "ToolTip": "C:\\Users\\ASUS VIVOBOOK\\NT106_P11\\NT106_P11.http",
+              "RelativeToolTip": "NT106_P11.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-13T09:07:27.944Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 28,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
